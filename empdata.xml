@@ -1,123 +1,213 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
+      <name>Jamie Lanniester</name>
+      <gender>Male</gender>
+      <streetaddress>122 Spring River Drive</streetaddress>
+      <city>Redmond</city>
+      <state>Washington</state>
+      <zipcode>98053</zipcode>
+      <designation>Data Engineer</designation>
+      <office>Seattle</office>
+      <phonenumber>111-222-2222</phonenumber>
       <extension>8422</extension>
+      <joining_date>2011/07/25</joining_date>
+      <salary>$150,000</salary>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
-    </data>
-    <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
-    </data>
-    <data>
-      <name>Airi Satou</name>
+      <name>Brianne Tar</name>
+      <gender>Female</gender>
+      <streetaddress>66 Spring Valley Drive</streetaddress>
+      <city>Buffalo</city>
+      <state>New York</state>
+      <zipcode>14201</zipcode>
       <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
+      <office>New York City</office>
+      <phonenumber>345-363-3333</phonenumber>
+      <extension>4804</extension>
+      <joining_date>2012/12/02</joining_date>
+      <salary>$120,000</salary>
+    </data>
+    <data>
+      <name>Arya Stark</name>
+      <gender>Female</gender>
+      <streetaddress>298 Forest Lane</streetaddress>
+      <city>San Francisco</city>
+      <state>California</state>
+      <zipcode>94016</zipcode>
+      <designation>Junior Technical Author</designation>
+      <office>San Francisco</office>
+      <phonenumber>777-888-0000</phonenumber>
+      <extension>1562</extension>
+      <joining_date>2009/01/12</joining_date>
+      <salary>$86,000</salary>
+    </data>
+    <data>
+      <name>Cercie Jobs</name>
+      <gender>Female</gender>
+      <streetaddress>1234 Main Street</streetaddress>
+      <city>Kirkland</city>
+      <state>Washington</state>
+      <zipcode>98033</zipcode>
+      <designation>Software Developer</designation>
+      <office>Seattle</office>
+      <phonenumber>908-098-0989</phonenumber>
       <extension>5407</extension>
+      <joining_date>2008/11/28</joining_date>
+      <salary>$162,700</salary>
     </data>
     <data>
-      <name>Caesar Vance</name>
+      <name>Julius Caesor</name>
+      <gender>Male</gender>
+      <streetaddress>293 River Lane</streetaddress>
+      <city>Orlando</city>
+      <state>Florida</state>
+      <zipcode>32789</zipcode>
       <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
+      <office>Florida</office>
+      <phonenumber>333-444-6754</phonenumber>
       <extension>8330</extension>
+      <joining_date>2011/12/12</joining_date>
+      <salary>$106,450</salary>
     </data>
     <data>
-      <name>Shad Decker</name>
+      <name>Molly Anderson</name>
+      <gender>Female</gender>
+      <streetaddress>1000 Main Street</streetaddress>
+      <city>Miami</city>
+      <state>Florida</state>
+      <zipcode>33101</zipcode>
       <designation>Regional Director</designation>
-      <salary>$183,000</salary>
+      <office>Florida</office>
+      <phonenumber>222-111-1110</phonenumber>
+      <extension>8330</extension>
       <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <salary>$183,000</salary>
     </data>
     <data>
       <name>Cedric Kelly</name>
+      <gender>Male</gender>
+      <streetaddress>300 Gillet Lane</streetaddress>
+      <city>Bellevue</city>
+      <state>Washington</state>
+      <zipcode>98007</zipcode>
       <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
+      <office>Seattle</office>
+      <phonenumber>777-444-7890</phonenumber>
       <extension>6224</extension>
+      <joining_date>2012/03/29</joining_date>
+       <salary>$433,060</salary>
     </data>
     <data>
-      <name>Haley Kennedy</name>
+      <name>Jennifer Aniston</name>
+      <gender>Female</gender>
+      <streetaddress>45 North West Lane</streetaddress>
+      <city>San Francisco</city>
+      <state>California</state>
+      <zipcode>94103</zipcode>
       <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
+      <office>San Francisco</office>
+      <phonenumber>378-098-0987</phonenumber>
       <extension>3597</extension>
+      <joining_date>2012/12/18</joining_date>
+      <salary>$313,500</salary>
     </data>
     <data>
-      <name>Colleen Hurst</name>
+      <name>Ross Hurst</name>
+      <gender>Male</gender>
+      <streetaddress>12 Seneca Lane</streetaddress>
+      <city>Newark</city>
+      <state>New Jersey</state>
+      <zipcode>07101</zipcode>
       <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
+      <office>Newark</office>
+      <phonenumber>109-091-1023</phonenumber>
       <extension>2360</extension>
+      <joining_date>2009/09/15</joining_date>
+      <salary>$205,500</salary>
     </data>
     <data>
       <name>Dai Rios</name>
+      <gender>Male</gender>
+      <streetaddress>400 Drivers Lane</streetaddress>
+      <city>Buffallo</city>
+      <state>New York</state>
+      <zipcode>14206</zipcode>
       <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
+      <office>New York City</office>
+      <phonenumber>202-828-7272</phonenumber>
       <extension>2290</extension>
+      <joining_date>2012/09/26</joining_date>
+      <salary>$217,500</salary>
     </data>
     <data>
-      <name>Herrod Chandler</name>
+      <name>Nancy Jain</name>
+      <gender>Female</gender>
+      <streetaddress>60 Belred Lane</streetaddress>
+      <city>Bellevue</city>
+      <state>Washington</state>
+      <zipcode>98009</zipcode>
       <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
+      <office>Seattle</office>
+      <phonenumber>131-141-1515</phonenumber>
       <extension>9608</extension>
+      <joining_date>2012/08/06</joining_date>
+      <salary>$137,500</salary>
     </data>
     <data>
-      <name>Rhona Davidson</name>
+      <name>Prateek Jain</name>
+      <gender>Male</gender>
+      <streetaddress>70 Cross Roads</streetaddress>
+      <city>San Francisco</city>
+      <state>California</state>
+      <zipcode>94114</zipcode>
       <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
+      <office>San Francisco</office>
+      <phonenumber>676-575-5765</phonenumber>
       <extension>6200</extension>
+      <joining_date>2010/10/14</joining_date>
+      <salary>$327,900</salary>
     </data>
     <data>
-      <name>Sonya Frost</name>
+      <name>Sonya Singh</name>
+      <gender>Female</gender>
+      <streetaddress>600 China Lane</streetaddress>
+      <city>Bothell</city>
+      <state>Washington</state>
+      <zipcode>98034</zipcode>
       <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
+      <office>Seattle</office>
+      <phonenumber>278-786-7648</phonenumber>
       <extension>1667</extension>
+      <joining_date>2008/12/13</joining_date>
+      <salary>$103,600</salary>
     </data>
     <data>
       <name>Jena Gaines</name>
+      <gender>Female</gender>
+      <streetaddress>700 Mells Lane</streetaddress>
+      <city>Bothell</city>
+      <state>Washington</state>
+      <zipcode>98021</zipcode>
       <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
+      <office>Seattle</office>
+      <phonenumber>292-202-2626</phonenumber>
       <extension>3814</extension>
+      <joining_date>2008/12/19</joining_date>
+      <salary>$90,560</salary>
     </data>
     <data>
       <name>Quinn Flynn</name>
+      <gender>Male</gender>
+      <streetaddress>3445 Cheyenne Road</streetaddress>
+      <city>Kirkland</city>
+      <state>Washington</state>
+      <zipcode>98033</zipcode>
       <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
+      <office>Seattle</office>
+      <phonenumber>242-222-2222</phonenumber>
       <extension>9497</extension>
+      <joining_date>2013/03/03</joining_date>
+      <salary>$342,000</salary>
     </data>
   </employees>

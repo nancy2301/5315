@@ -19,8 +19,14 @@
              $(xml).find('data').each(function(){  
               t.row.add( [
                 $(this).find('name').text(),
+                $(this).find('gender').text(),
+                $(this).find('streetaddress').text(),
+                $(this).find('city').text(),
+                $(this).find('state').text(),
+                $(this).find('zipcode').text(),
                 $(this).find('designation').text(),
                 $(this).find('office').text(),
+                $(this).find('phonenumber').text(),
                 $(this).find('extension').text(),
                 $(this).find('joining_date').text(),
                 $(this).find('salary').text()
@@ -37,8 +43,14 @@
     <thead>
         <tr>
             <th>Name</th>
+            <th>Gender</th>
+            <th>StreetAddress</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Zipcode</th>
             <th>Designation</th>
             <th>Office</th>
+            <th>PhoneNumber</th>
             <th>Extension</th>
             <th>Joining Date</th>
             <th>Salary</th>
@@ -48,8 +60,14 @@
     <tfoot>
         <tr>
             <th>Name</th>
+            <th>Gender</th>
+            <th>StreetAddress</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Zipcode</th>
             <th>Designation</th>
             <th>Office</th>
+            <th>PhoneNumber</th>
             <th>Extension</th>
             <th>Joining Date</th>
             <th>Salary</th>
