@@ -55,6 +55,48 @@
       "extension": "5407",
       "joining_date": "2008/11/28",
       "salary": "$162,700"
+    },
+    {
+      "name": "Julius Caesor",
+      "gender": "Male",
+      "streetaddress": "293 River Lane",
+      "city": "Orlando",
+      "state": "Florida",
+      "zipcode": "32789",
+      "designation": "Pre-Sales Support",
+      "office": "Florida",
+      "phonenumber": "333-444-6754",
+      "extension": "8330",
+      "joining_date": "2011/12/12",
+      "salary": "$106,450"
+    },
+    {
+      "name": "Molly Anderson",
+      "gender": "Female",
+      "streetaddress": "1000 Main Street",
+      "city": "Miami",
+      "state": "Florida",
+      "zipcode": "33101",
+      "designation": "Regional Director",
+      "office": "Florida".
+      "phonenumber": "222-111-1110",
+      "extension": "8330",
+      "joining_date": "2008/11/13",
+      "salary": "$183,000"
+    },
+    {
+      "name": "Cedric Kelly",
+      "gender": "Male",
+      "streetaddress": "300 Gillet Lane",
+      "city": "Bellevue",
+      "state": "Washington",
+      "zipcode": "98007",
+      "designation": "Senior Javascript Developer",
+      "office": "Seattle",
+      "phonenumber": "777-444-7890",
+      "extension": "6224",
+      "joining_date": "2012/03/29",
+       "salary": "$433,060"
     }
   ]
 }
