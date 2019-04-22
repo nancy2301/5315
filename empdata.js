@@ -27,6 +27,34 @@
       "extension": "4804",
       "joining_date": "2012/12/02",
       "salary": "$120,000"
+    },
+    {
+      "name": "Arya Stark",
+      "gender": "Female",
+      "streetaddress": "298 Forest Lane",
+      "city": "San Francisco",
+      "state": "California",
+      "zipcode": "94016",
+      "designation": "Junior Technical Author",
+      "office": "San Francisco",
+      "phonenumber": "777-888-0000",
+      "extension": "1562",
+      "joining_date": "2009/01/12",
+      "salary": "$86,000"
+    },
+    {
+      "name": "Cercie Jobs",
+      "gender": "Female",
+      "streetaddress": "1234 Main Street",
+      "city": "Kirkland",
+      "state": "Washington",
+      "zipcode": "98033",
+      "designation": "Software Developer",
+      "office": "Seattle",
+      "phonenumber": "908-098-0989",
+      "extension": "5407",
+      "joining_date": "2008/11/28",
+      "salary": "$162,700"
     }
   ]
 }
